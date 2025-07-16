@@ -171,7 +171,7 @@ public class GameClient {
 }
 ```
 
-Riportiamo qui anche il link alla documentazione completa **[Javadoc](javadoc/index.html)** del progetto.
+Riportiamo qui anche il link alla documentazione completa **[Javadoc](https://whiteenderman14.github.io/ectotext-game/javadoc/)** del progetto.
 
 ---
 
